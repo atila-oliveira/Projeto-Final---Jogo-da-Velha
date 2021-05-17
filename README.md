@@ -1,7 +1,7 @@
 # Projeto Final   Jogo da Velha
  Projeto de JQuery do curso Desenvolvimento WEB - Udemy
 
-Jogue o jogo [clicando aqui](https://atila-oliveira.github.io/Projeto-Final---Jogo-Balao/)
+Jogue o jogo [clicando aqui](https://atila-oliveira.github.io/Projeto-Final---Jogo-da-Velha/)
 
 # Telas do projeto
 ## Página Principal (index)
